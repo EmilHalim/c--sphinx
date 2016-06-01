@@ -1,0 +1,10 @@
+
+
+
+  add  "$" macro in includePath directive
+  increzed Max length of Idints( name of functions , name of lables, name of variables ......)
+  added fasm  ST0-st7 rigster name compatable  
+  added dwrod ptr,word ptr,byte ptr as masm 
+  added #OnExit ,#OnEntry directives
+  added PlugeIns system , that extend c-- features by writing addon dll files.  
+  added Masm local lable @@ , @f ,@b  as a plugin called "Macro.dll"
